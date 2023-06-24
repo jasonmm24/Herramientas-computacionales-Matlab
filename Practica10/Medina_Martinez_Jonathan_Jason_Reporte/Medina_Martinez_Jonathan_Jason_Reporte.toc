@@ -1,0 +1,7 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Objetivo}{3}{}%
+\contentsline {section}{\numberline {2}Introducción}{3}{}%
+\contentsline {section}{\numberline {3}Desarrollo}{4}{}%
+\contentsline {subsubsection}{\numberline {3.0.1}Modelo}{5}{}%
+\contentsline {subsubsection}{\numberline {3.0.2}Ejecución}{5}{}%
+\contentsline {section}{\numberline {4}Conclusión}{6}{}%
