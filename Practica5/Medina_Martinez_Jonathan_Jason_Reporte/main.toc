@@ -1,0 +1,44 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Objetivo}{4}{}%
+\contentsline {section}{\numberline {2}Introducción}{4}{}%
+\contentsline {section}{\numberline {3}Desarrollo}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Discriminante}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}Función}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Programa1}{5}{}%
+\contentsline {subsubsection}{\numberline {3.1.3}Ejecución}{6}{}%
+\contentsline {subsection}{\numberline {3.2}Ángulos}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Prueba}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Programa2}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Ejecución}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Serie de Leibniz}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Programa3}{9}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Ejecución}{9}{}%
+\contentsline {subsection}{\numberline {3.4}Suma de los elementos de un Vector}{10}{}%
+\contentsline {subsubsection}{\numberline {3.4.1}Programa4}{10}{}%
+\contentsline {subsubsection}{\numberline {3.4.2}Ejecución}{10}{}%
+\contentsline {subsection}{\numberline {3.5}Burbuja}{11}{}%
+\contentsline {subsubsection}{\numberline {3.5.1}Burbuja}{11}{}%
+\contentsline {subsubsection}{\numberline {3.5.2}Ejecución}{11}{}%
+\contentsline {subsection}{\numberline {3.6}Cartesiano a Polar}{13}{}%
+\contentsline {subsubsection}{\numberline {3.6.1}Función}{13}{}%
+\contentsline {subsubsection}{\numberline {3.6.2}Ejecución}{13}{}%
+\contentsline {subsection}{\numberline {3.7}Fibonacci (for)}{15}{}%
+\contentsline {subsubsection}{\numberline {3.7.1}Programa7}{15}{}%
+\contentsline {subsubsection}{\numberline {3.7.2}Ejecución}{15}{}%
+\contentsline {subsection}{\numberline {3.8}Fibonacci (while)}{16}{}%
+\contentsline {subsubsection}{\numberline {3.8.1}Programa8}{16}{}%
+\contentsline {subsubsection}{\numberline {3.8.2}Ejecución}{16}{}%
+\contentsline {subsection}{\numberline {3.9}Numero Áureo}{17}{}%
+\contentsline {subsubsection}{\numberline {3.9.1}Programa9}{18}{}%
+\contentsline {subsubsection}{\numberline {3.9.2}Ejecución}{19}{}%
+\contentsline {subsubsection}{\numberline {3.9.3}Grafica}{19}{}%
+\contentsline {subsection}{\numberline {3.10}For}{20}{}%
+\contentsline {subsubsection}{\numberline {3.10.1}Programa10a}{20}{}%
+\contentsline {subsubsection}{\numberline {3.10.2}Ejecución}{20}{}%
+\contentsline {subsubsection}{\numberline {3.10.3}Programa10b}{20}{}%
+\contentsline {subsubsection}{\numberline {3.10.4}Ejecución}{20}{}%
+\contentsline {subsubsection}{\numberline {3.10.5}Programa10c}{21}{}%
+\contentsline {subsubsection}{\numberline {3.10.6}Ejecución}{21}{}%
+\contentsline {subsubsection}{\numberline {3.10.7}Programa10d}{22}{}%
+\contentsline {subsubsection}{\numberline {3.10.8}Ejecución}{22}{}%
+\contentsline {section}{\numberline {4}Conclusión}{23}{}%
